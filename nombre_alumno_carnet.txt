@@ -2,6 +2,6 @@ progra2
 balbino aylagas
 esen feb 2021
 
-nombre completo:
-github url:
+nombre completo: Héctor Daniel Gallo Martínez
+github url:https://github.com/hector-gallo/Parcial1_PrograII.git
 progra2
